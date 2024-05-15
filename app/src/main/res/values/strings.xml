@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">FinTrack</string>
+    <string-array name="colors_category">
+        <item>#FF000000</item>
+        <item>#FFFFFFFF</item>
+        <item>#F54336</item>
+        <item>#9D28AC</item>
+        <item>#3F51B2</item>
+        <item>#1A96F0</item>
+        <item>#00BCD3</item>
+        <item>#009689</item>
+        <item>#4AAF57</item>
+        <item>#FFEB4F</item>
+        <item>#FF5726</item>
+        <item>#7A5548</item>
+        <item>#607D8A</item>
+        <item>#FF981F</item>
+    </string-array>
 </resources>
